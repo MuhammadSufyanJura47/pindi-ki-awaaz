@@ -75,6 +75,9 @@ export const metadata = {
       "max-video-preview": -1,
     },
   },
+  verification: {
+    google: "sc6ncL0bz3HzCjxEjkxI0KNGGsNnXNWc9DzyZaQC-UU",
+  },
   category: "civic technology",
 };
 
