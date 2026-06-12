@@ -1,4 +1,4 @@
-const siteUrl = "https://pindi-ki-awaaz.vercel.app";
+const siteUrl = "https://pindi-ki-awaaz.app";
 
 export default function robots() {
   return {
