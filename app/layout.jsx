@@ -1,7 +1,7 @@
 import "./globals.css";
 import BotpressChat from "@/components/BotpressChat";
 
-const siteUrl = "https://pindi-ki-awaaz.app";
+const siteUrl = "https://www.pindi-ki-awaaz.app";
 const siteName = "Pindi Ki Awaaz";
 const siteDescription =
   "Pindi Ki Awaaz is an AI civic assistant for Rawalpindi citizens, helping with public services, complaint guidance, and department routing.";
