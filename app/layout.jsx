@@ -94,6 +94,7 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
         />
+        <meta name="google-site-verification" content="sc6ncL0bz3HzCjxEjkxI0KNGGsNnXNWc9DzyZaQC-UU" />
       </head>
       <body>
         <a className="skipLink" href="#main-content">Skip to content</a>
