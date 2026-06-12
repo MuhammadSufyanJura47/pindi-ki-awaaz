@@ -4,7 +4,7 @@ import Features from "@/components/Features";
 import About from "@/components/About";
 import Footer from "@/components/Footer";
 
-const siteUrl = "https://pindi-ki-awaaz.vercel.app";
+const siteUrl = "https://pindi-ki-awaaz.app";
 const assistantUrl =
   "https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/16/20260504161500-11DR38KS.json";
 
